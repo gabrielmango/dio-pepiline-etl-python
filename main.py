@@ -1,5 +1,8 @@
+# https://hp-api.onrender.com/
+
 import requests
 import json
+import pandas as pd
 from translate import Translator
 
 res = requests.get('https://hp-api.onrender.com/api/spells')
@@ -23,3 +26,10 @@ for dado in dados:
             descricao
         ]
     )
+    print(f'{len(dados_traduzidos)}/{len(dados)}')
+
+colunas = ['id', 'nome', 'descrição']
+
+resultado = pd.DataFrame(dados_traduzidos, columns=colunas)
+
+resultado.to_csv('hp_feiticos.csv')

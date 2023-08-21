@@ -1,0 +1,78 @@
+,id,nome,descrição
+0,c76a2922-ba4c-4278-baab-44defb631236,Aberto,Abre portas trancadas
+1,06485500-d023-4799-93fd-77f2c3341aa3,Accio,Objetos de invocação
+2,acbc0ae1-12e1-4813-b51e-09d22de40475,Aguamenti,Invoca água
+3,c9d2f389-a419-4f7e-8d3d-254959638019,Alohomora,Desbloqueia objectos
+4,018429a5-15d5-41af-bf8f-98a966733d77,Anapneo,Limpa as vias aéreas de alguém
+5,c828685c-52d2-466d-bcc6-fbcd8376cfb5,Aparecium,Revela mensagens secretas escritas
+6,7fdd393c-2608-4ef3-9fd0-f691ad6f8b88,Apparate,Um feitiço de transporte não verbal que permite que uma bruxa ou mago viaje instantaneamente no local e apareça em outro local (desapareça é o oposto)
+7,73886d47-2808-4861-ae40-956f4cb56272,Ascendio,Impulsiona alguém para o ar
+8,9a6b6854-8858-4b21-b761-12526a154597,Avada Kedavra,"Também conhecida como A Maldição da Morte, o feitiço mais maligno do Mundo Mágico; uma das três Maldições Imperdoáveis; Harry Potter é o único bruxo ou bruxa conhecido que sobreviveu a ela"
+9,b6f20bba-c0db-4ad2-8ac6-2a375a596287,Avis,Conjura um pequeno bando de pássaros
+10,48edfe4d-ddfc-49ac-8065-bd7e73c73778,Bat,Bogey Hex - Transforma as melecas do alvo em morcegos
+11,6bd8d5c1-9375-4b70-8d6e-ad019176c7a2,Bombardo,Cria uma explosão
+12,8fc19d10-3130-4b85-95c1-f2a51ba5ee3c,Brackium Emendo,Cura ossos partidos
+13,f08c17fa-7bf9-49bf-9fba-a7806815bc80,Capacious Extremis,"Conhecido como Feitiço de Extensão, é um feitiço complicado que pode expandir ou estender muito a capacidade de um objeto ou espaço sem afetá-lo externamente"
+14,55dec867-ac07-4975-94c7-090f6fd25c86,Confundo,"Conhecido como o Feitiço Confundus, causa confusão no alvo"
+15,816d9fee-b78f-47b4-be46-b48626c013f9,Conjunctivitis Curse,Afeta os olhos e a visão de um alvo
+16,58b8727a-6c0c-469c-b91d-8ac0cc0dd2d8,Crinus Muto,Muda a cor e o estilo do cabelo
+17,f1e91049-e866-4f6f-9d87-d6fd366aecbf,Crucio,"Uma das três Maldições Imperdoáveis, causa dor insuportável no alvo"
+18,7324e645-8f41-4c83-a367-0d10a72906ff,Diffindo,Usado para cortar com precisão um objeto
+19,638072b9-b7ac-405d-914b-d9293c5f9d25,Disillusionment Charm,Faz com que o alvo assuma a aparência dos arredores
+20,b7643e32-ef9c-41b8-83f2-03f6b5015e04,Disapparate,Um feitiço de transporte não verbal que permite que uma bruxa ou mago viaje instantaneamente no local e saia para outro local (aparato é o oposto)
+21,20476c31-4f27-49ac-876f-a4c4028f1b5b,Engorgio,Causa um crescimento rápido no objeto alvo
+22,ecb9a882-d6d7-495e-9958-a1a06902bb65,Episkey,Cura ferimentos leves
+23,317ff981-ad65-421e-92fb-5f6647d95232,Expecto patronum,"O Feitiço do Patrono é uma poderosa projeção de esperança e felicidade que afasta os Dementadores; um Patrono corpeal assume a respectiva forma animal do conjurador, enquanto um não-corpeal aparece como um fio de luz; aos 13 anos, Harry Potter era o bruxo ou bruxa mais jovem conhecido a orgulhar-se de um Patrono corpeal"
+24,60149246-91cf-44a5-8885-78a7acc4bf90,Erecto,"Permite que uma bruxa ou mago construa uma estrutura, como uma tenda"
+25,6d8138c3-0773-4c23-b0bf-aab0e5c6fd95,Evanesco,Desaparece objectos
+26,678474e6-fb30-4bf0-a18c-228f6b36592d,Expelliarmus,Força um oponente a largar o que estiver em sua posse
+27,31b38b6c-4775-4e20-815d-dbf302433de6,Ferula,Um feitiço de cura que evoca envoltórios e curativos para feridas
+28,37d262c9-28ab-408f-9576-acf54ce50203,Fidelius Charm,"Um feitiço complexo que esconde um segredo na alma de um ""Guardião Secreto"" escolhido. Se um local for objeto de ocultação, torna-se indetectável para os outros"
+29,9121b557-0ebf-4b60-a119-9d1c5ff05dee,Fiendfyre Curse,Conjura chamas encantadas destrutivas e enormes
+30,de23025f-5e6a-4ec3-b827-5c526a922a89,Finite Incantatem,Um contra-feitiço geral que é usado para reverter ou contra-atacar feitiços já lançados
+31,d536cbe5-bc0f-49e5-b063-e02c231a3988,Furnunculus Curse,Uma azaração que causa um surto de furúnculos ou espinhas
+32,7915b07a-d26e-4057-9083-e457643e57a6,Geminio,Duplica objetos
+33,2a942514-7a19-4f0e-9353-171c573abcba,Glisseo,Transforma uma escada em escorregador
+34,a42028b6-67f5-463b-b759-452103533227,Homenum Revelio,Revela a presença de outra pessoa
+35,552cd4ee-2c67-48fd-ae20-a83773262a8a,Homonculus Charm,Detecta a verdadeira identidade e localização de qualquer pessoa em um pedaço de pergaminho; usado para criar o Mapa do Maroto
+36,2dfca7d2-ec9b-4150-b3f3-fd972a5fd1bc,Immobulus,Imobiliza alvos vivos
+37,a49300cc-ddbf-4ff4-b8c2-e8bddbbe4118,Impedimenta,Uma azaração temporária que retarda o movimento do alvo
+38,e5c22d31-26f1-4c88-a586-d9c09cb88c1f,Incarcerous,Conjura cordas
+39,a53ad5be-00ee-4254-b3c0-4cec60b0c034,Imperio,"Uma das três Maldições Imperdoáveis, coloca o alvo sob o controle completo do conjurador"
+40,a3b34bf6-1ff7-4fe3-81ee-e617150f5da9,Impervius,Torna um objeto à prova d 'água
+41,de048df0-b227-4376-a29b-90fe6878d950,Incendio,Conjura chamas
+42,c4a4520b-b80d-49e8-9e5a-3ca0a7f376ca,Langlock,Faz com que a língua do alvo grude no céu da boca
+43,0da7cb76-dabc-46ff-b8e9-c23a4f03caea,Legilimens,Invadir ou navegar na mente de outra pessoa
+44,723dd9c9-ee62-495b-9071-cddd16087b86,Levicorpus,Levita o alvo pelo tornozelo
+45,8add16ef-b4b1-4e2b-a91e-80aa194da438,Locomotor Mortis,A maldição Leg-Locker limita as pernas do alvo
+46,3b7a10ce-3339-4a36-9493-292c8775e47b,Lumos,Ilumina a varinha do conjurador
+47,832edaca-dbff-4a57-80c7-1d8a827c8416,Morsmordre,Evoca e projeta a Marca Negra de Lord Voldemort
+48,7f4b43e0-3356-43f9-9299-15ec37cfaf76,Mucus Ad Nauseam,Inflige um corrimento nasal extremo ou frio
+49,f86bbf7e-94ea-4c22-89fb-809af8214a85,Muffliato,Cria um som de zumbido nos ouvidos do alvo para evitar escutas
+50,66be613d-532c-46d8-a3e9-f5a2d9cccf0c,Nox,"Inverte o encanto lumos, extinguindo a luz de uma varinha"
+51,9e3c0217-652a-4763-82f8-5519026a1ea6,Obliviate,Apaga a memória do alvo
+52,0af49753-c8ae-4748-87a7-b7cfc47d33a0,Obscuro,Conjura uma venda nos olhos
+53,67e838c1-4623-414e-9a91-12125631dbad,Oculus Reparo,Repara óculos
+54,12251f32-af9d-408f-a652-3a4cc9602bc0,Oppugno,Orienta um objeto ou pessoa a atacar uma vítima
+55,da9eab7b-2c7c-42de-861c-fb254bd9423c,Petrificus Totalus,Congela ou petrifica temporariamente o corpo do alvo
+56,3e5fd245-2ecf-40c4-937d-b2c2f9eee003,Periculum,Evoca chamas/faíscas vermelhas
+57,ad5685f8-6e05-49b1-a41c-d72786001d72,Piertotum Locomotor,Encantamento usado para dar vida a objetos e artefatos inanimados
+58,0a267162-0594-4372-a3d5-89382926f495,Protean Charm,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+59,8808aa30-39f4-400c-a0e5-1dcbad657931,Protego,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+60,56742dd7-3c93-4085-bea3-971e88d81dc2,Reducto,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+61,2f177949-1f80-4663-9840-da8197411f2a,Reducio,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+62,358ecb3c-e684-492c-b706-47cbd1eae02e,Renneverate,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+63,1b7a8a4c-8d4f-4001-8155-e68f1198ef72,Reparifors,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+64,799f31a3-799e-411f-b67c-a64e48a5f503,Reparo,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+65,32dbeb89-0978-4037-ab1b-413d62be02c3,Rictusempra,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+66,c9dc8bed-5834-4001-8fa1-852690d027f2,Riddikulus,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+67,14c47e18-cbf3-4aec-afd3-5473d18ee7c0,Scourgify,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+68,3617c34c-e650-4e3b-a13a-651d18471225,Sectumsempra,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+69,53747fb8-bdab-466e-90fb-ca75c66f3dd9,Serpensortia,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+70,43d3d53e-7ab9-4145-bda7-d96be99c5d31,Silencio,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+71,d5f71164-fa43-4566-b537-8852859bde01,Sonorus,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+72,9ec3258c-bc2f-4427-8440-ebea450a44aa,Spongify,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+73,37110a48-07e3-4fd7-9aae-ac1145161e1e,Stupefy,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+74,daeb6f2a-5aff-43e1-964a-a06da7f66a3c,Tarantallegra,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+75,4eaa6532-3ef2-428d-922f-101aee3d66ed,Unbreakable Vow,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
+76,e23728b2-f6fd-4c70-a1d2-ce602940d873,Wingardium Leviosa,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 02 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE
